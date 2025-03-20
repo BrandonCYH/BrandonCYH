@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Danny!
+# 👋 Hi there, I'm Brandon!
 
 🎓 **Education Background**
 - 🎓 Diploma In Information Technlogy in Digital Technology - Politeknik Sultan Abdul Halim Mu'adzam Shah
