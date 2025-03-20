@@ -5,7 +5,8 @@
 - 🎓 Bachelor's Degree in Information Technology Majoring in Software Engineering - University Utara Malaysia  
 - 📚 Passionate about web development and mobile development
 
-💻 **About Me**  
+💻 **About Me**
+
 A passionate developer with expertise in Laravel, Javascript, Cordova, and Bootstrap.
 I enjoy building **responsive websites, mobile applications, and SaaS platforms**.
 I enjoy optimizing user experiences, improving UI/UX, and exploring new technologies to enhance my projects.
