@@ -7,20 +7,21 @@
 
 💻 **About Me**
 
-A passionate developer with expertise in Laravel, Javascript, Cordova, and Bootstrap.
+A passionate developer with expertise in Full Stack Development.
 I enjoy building **responsive websites, mobile applications, and SaaS platforms**.
 I enjoy optimizing user experiences, improving UI/UX, and exploring new technologies to enhance my projects.
-Currently, I am working on:  
-- 🏨 **Hotel Management System - Ocean Heaven Hotel**  
 
 🚀 **Tech Stack & Skills**  
-- **Frontend:** HTML, CSS, Javascript, Bootstrap, Tailwind Css  
+- **Frontend:** HTML, CSS, Javascript, Bootstrap, Tailwind Css 
 - **Backend:** Laravel (PHP), MySQL, Java  
 - **Mobile Development:** Flutter (Dart), Cordova, Ionic, Android Studio  
 - **Other Tools:** Git, Visual Studio Code
 
-🌱 Currently Learning:
-- Progressive Web Apps (PWA)
+🌱 **Currently Learning**
+- React JS and React Native
 - Payment Gateway Integration in Laravel
-- Advanced SaaS Development
+
+🏢 **Working Experience**
+- Syarikat Air Darul Aman (SADA) - Backend Developers (Internship)
+- Freelancer - Frontend Developers (Part Time Jobs)
 ---
